@@ -2,7 +2,7 @@
 # My name is Darren  
   I'm currently learning the foundations of development and am extremely keen to learn more  
 ### contact me via email @darren.tormey96@gmail.com  
-	![Thanks for stopping by]((https://i)
+	![Thanks for stopping by](https://i.kym-cdn.com/photos/images/newsfeed/001/878/329/dfa.jpg) 
 <!--
 **DarrenJT/DarrenJT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
