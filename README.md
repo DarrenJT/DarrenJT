@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My name is Darren  
-## I'm currently learning the foundations of development and am extremely keen to learn more  
+  I'm currently learning the foundations of development and am extremely keen to learn more  
 ### contact me via email @darren.tormey96@gmail.com
 <!--
 **DarrenJT/DarrenJT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
